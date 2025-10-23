@@ -1,5 +1,7 @@
 # 🔗 Minimalist, Private, and Open-Source Link Manager
 
+**`Access the README in Portuguese in the folder “docs/README_PTBR.md.`**
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 MLink is an open-source bookmark and link manager that brings back the essence of the early, open web. It’s a return to simple, functional services that work directly in your browser without requiring registration, accounts, or payments.
