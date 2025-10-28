@@ -9,21 +9,21 @@
     display: flex;
     flex-direction: column;
     gap: 1.45rem;
+}
 
-    & > .mlinkContentSectionWork {
-        color: #1f1d1d;
-        text-align: left;
-        font-family: "Inclusive Sans", sans-serif;
+.mlinkContentWork > .mlinkContentSectionWork {
+    color: #1f1d1d;
+    text-align: left;
+    font-family: "Inclusive Sans", sans-serif;
+}
 
-        & > .mlinkContentSectionTitle {
-            font-weight: var(--wg-default-medium);
-            font-size: 1.25rem;
-            margin-bottom: 1rem;
-        }
+.mlinkContentWork > .mlinkContentSectionWork > .mlinkContentSectionTitle {
+    font-weight: var(--wg-default-medium);
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
 
-        & > .mlinkContentSectionParagraph {
-            font-weight: 400;
-            text-align: left;
-        }
-    }
+.mlinkContentWork > .mlinkContentSectionWork > .mlinkContentSectionParagraph {
+    font-weight: 400;
+    text-align: left;
 }
